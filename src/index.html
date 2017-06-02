@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>123</title>
+        <style>
+            a{
+                display: block;
+            }
+        </style>
+    </head>
+    <body>
+
+    </body>
+    <script src="http://common.qunarzz.com/lib/prd/jquery/3.2.1/jquery.js"></script>
+    <script>
+        var x = ["2.3.2"];
+        var elemIF;
+        var html = "";
+        elemIF = document.createElement("a");
+        for (var i = 0; i < x.length; i++) {
+            elemIF.href = "http://knockoutjs.com/downloads/knockout-3.4.2.js"
+            // +x[i]+"/require.js";
+            elemIF.download = "/jquery.js";
+            elemIF.click();
+            // elemIF.href = "http://common.qunarzz.com/lib/prd/require.js/"+x[i]+"/require.min.js";
+            // elemIF.download = "jquery.min.js";
+            // elemIF.click();
+
+        }
+
+        $('body').html(html);
+        // $('body>a').each(function(){
+        //     $(this).trigger('focus');
+        // })
+    </script>
+</html>

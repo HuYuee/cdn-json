@@ -1,0 +1,6 @@
+{
+    "name": "underscore",
+    "version": ["1.8.3", "1.8.2"],
+    "url": ["/underscore.js", "/underscore-min.js"],
+    "download": {}
+}

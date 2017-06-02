@@ -1,0 +1,6 @@
+{
+    "name": "moy",
+    "version": [ "3.2.2","3.2.1", "3.2.0", "3.1.9", "3.1.6", "3.1.5"],
+    "url": ["/js/u.js", "/js/u.min.js", "/css/u.css", "/css/u.min.css", "/js/u-tree.js", "/js/u-tree.min.js", "/css/tree.css", "/css/tree.min.css", "/js/u-grid.js", "/js/u-grid.min.js", "/css/grid.css", "/css/grid.min.css","/js/u-polyfill.js","/js/u-polyfill.min.js","/css/u.core.css","/css/u.core.min.css"],
+    "download": {}
+}

@@ -1,0 +1,6 @@
+{
+    "name": "lodash",
+    "version": ["4.17.4", "4.17.3"],
+    "url": ["/lodash.js", "/lodash.min.js"],
+    "download": {}
+}

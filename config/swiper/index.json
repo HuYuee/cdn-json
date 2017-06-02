@@ -1,0 +1,6 @@
+{
+    "name": "swiper",
+    "version": ["3.4.2", "3.4.1"],
+    "url": ["/swiper.js", "/swiper.min.js", "/swiper.css", "/swiper.min.css"],
+    "download": {}
+}

@@ -1,0 +1,41 @@
+{
+    "title": "tinper静态资源公共库",
+    "prod": [{
+        "name": "moy",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/defaut.jpg",
+        "desc": "moy 是基于模型框架 kero 和 UI 框架 neoui 实现的应用框架，快速构建数据驱动型应用。"
+    }, {
+        "name": "react",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/react/react.jpg",
+        "desc": "React is a JavaScript library for building user interfaces."
+    }, {
+        "name": "knockout",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/knockout/knockout.png",
+        "desc": "Knockout is a JavaScript MVVM library that makes it easier to create rich, desktop-like user interfaces with JavaScript and HTML."
+    }, {
+        "name": "swiper",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/swiper/swiper.jpg",
+        "desc": "Most modern mobile touch slider and framework with hardware accelerated transitions."
+    }, {
+        "name": "lodash",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/lodash/lodash.jpg",
+        "desc": "A utility library delivering consistency, customization, performance, & extras."
+    }, {
+        "name": "require",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/require/require.jpg",
+        "desc": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node"
+    }, {
+        "name": "jquery",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/jquery/jquery.jpg",
+        "desc": "JavaScript library for DOM operations"
+    }, {
+        "name": "underscore",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/underscore/underscore.jpg",
+        "desc": "JavaScript's utility _ belt."
+    }, {
+        "name": "director",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/director/director.png",
+        "desc": "a tiny and isomorphic URL router for JavaScript."
+    }]
+
+}

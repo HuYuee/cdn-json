@@ -1,0 +1,19 @@
+{
+  "name": "cdn-json",
+  "version": "1.0.0",
+  "description": "the json of yonyou's cdn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuYuee/cdn-json.git"
+  },
+  "author": "huyue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuYuee/cdn-json/issues"
+  },
+  "homepage": "https://github.com/HuYuee/cdn-json#readme"
+}
