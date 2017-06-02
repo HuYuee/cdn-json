@@ -2,7 +2,7 @@
     "title": "tinper静态资源公共库",
     "prod": [{
         "name": "moy",
-        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/default.jpg",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/default.png",
         "desc": "moy 是基于模型框架 kero 和 UI 框架 neoui 实现的应用框架，快速构建数据驱动型应用。"
     }, {
         "name": "react",
