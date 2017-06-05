@@ -17,20 +17,20 @@
         "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/swiper/swiper.jpg",
         "desc": "Most modern mobile touch slider and framework with hardware accelerated transitions."
     }, {
-        "name": "lodash",
-        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/lodash/lodash.jpg",
+        "name": "lodash.js",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/lodash.js/lodash.jpg",
         "desc": "A utility library delivering consistency, customization, performance, & extras."
     }, {
-        "name": "require",
-        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/require/require.jpg",
+        "name": "require.js",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/require.js/require.jpg",
         "desc": "RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node"
     }, {
         "name": "jquery",
         "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/jquery/jquery.jpg",
         "desc": "JavaScript library for DOM operations"
     }, {
-        "name": "underscore",
-        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/underscore/underscore.jpg",
+        "name": "underscore.js",
+        "image": "http://iuap-design-cdn.oss-cn-beijing.aliyuncs.com/static/cdnconfig/underscore.js/underscore.jpg",
         "desc": "JavaScript's utility _ belt."
     }, {
         "name": "director",
